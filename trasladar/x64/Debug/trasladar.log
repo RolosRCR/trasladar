@@ -1,3 +1,10 @@
 ﻿  main.cpp
-C:\Users\fibra\OneDrive\Escritorio\Graficacion\trasladar\trasladar\main.cpp(82,28): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\fibra\OneDrive\Escritorio\Graficacion\trasladar\trasladar\main.cpp(39,46): warning C4473: "sscanf_s": no se pasaron suficientes argumentos para la cadena de formato
+C:\Users\fibra\OneDrive\Escritorio\Graficacion\trasladar\trasladar\main.cpp(39,46): message : los marcadores de posición y sus parámetros esperan 4 argumentos variádicos, pero se proporcionaron 3
+C:\Users\fibra\OneDrive\Escritorio\Graficacion\trasladar\trasladar\main.cpp(39,46): message : el argumento variádico 4 que falta es requerido por la cadena de formato '%f'
+C:\Users\fibra\OneDrive\Escritorio\Graficacion\trasladar\trasladar\main.cpp(94,140): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\fibra\OneDrive\Escritorio\Graficacion\trasladar\trasladar\main.cpp(95,140): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\fibra\OneDrive\Escritorio\Graficacion\trasladar\trasladar\main.cpp(96,140): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\fibra\OneDrive\Escritorio\Graficacion\trasladar\trasladar\main.cpp(108,13): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\fibra\OneDrive\Escritorio\Graficacion\trasladar\trasladar\main.cpp(114,28): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
   trasladar.vcxproj -> C:\Users\fibra\OneDrive\Escritorio\Graficacion\trasladar\x64\Debug\trasladar.exe
